@@ -1,0 +1,5 @@
+This project illustrates the operation of mining bitcoin.
+In order to to do so we use: Dynamic Flexible Array, Posix Message Queues, Processes and crc32.
+In addition a MAKEFILE is provided in order to compile the program.
+**********************************************************************************
+The project was written in C on ubuntu and the DOC file which explains the assignment is also provided.

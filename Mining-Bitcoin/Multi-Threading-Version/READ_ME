@@ -1,1 +1,5 @@
-
+This project illustrates the operation of mining bitcoin.
+In order to to do so we use: Mutex, Semaphore, Condition Variables,Threads and crc32.
+In addition a MAKEFILE is provided in order to run and compile the program.
+**********************************************************************************
+The project was written in C on ubuntu and the DOC file which explains the assignment is also provided.
